@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2013\Projects\CodeExercise\Project2\bin\Debug\Project2.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\CodeExercise\Project2\bin\Debug\Project2.exe
+c:\users\owner\documents\visual studio 2013\Projects\CodeExercise\Project2\bin\Debug\Project2.pdb
+c:\users\owner\documents\visual studio 2013\Projects\CodeExercise\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2013\Projects\CodeExercise\Project2\obj\Debug\Project2.exe
+c:\users\owner\documents\visual studio 2013\Projects\CodeExercise\Project2\obj\Debug\Project2.pdb
